@@ -94,3 +94,5 @@ Apache-2.0
 [npm registry]: https://www.npmjs.com/package/@unomed/react-native-matrix-sdk
 [src/index.ts]: src/index.ts
 [uniffi-bindgen-react-native]: https://github.com/jhugman/uniffi-bindgen-react-native
+
+Test
